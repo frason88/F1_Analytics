@@ -2,6 +2,7 @@
 F1 Analytics and Visualization 
 
 # ER Diagram of Formula 1 Racing Database Schema
+![alt text](ergast_db.png)
 
 
 
